@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>GPES</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.cdt.core.cnature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>GPES.exe</name>
+			<type>1</type>
+			<location>C:/USERS/PUBLIC/DOCUMENTS/GDS_PROJECTS/AVD/SYS/.gpes/GPES.exe</location>
+		</link>
+	</linkedResources>
+</projectDescription>

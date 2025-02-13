@@ -1,0 +1,7 @@
+ATBargraph.
+ATIndexBitmap.
+ATResTTText.
+ATSimpleBitmap.
+ATTrueTypeText.
+ATTrueTypeVariable.
+ATQuad.
